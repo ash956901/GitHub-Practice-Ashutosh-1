@@ -1,2 +1,2 @@
 # GitHub-Practice-Ashutosh-1
-Devsecops lab practise 
+SOme  commands to do
